@@ -28,11 +28,11 @@ Follow [this link](http://bit.ly/2DosPhc) to learn how to:
 1. Update RobotC and
 2. Check that RobotC is fully updated
 
-Then, follow [this link](http://bit.ly/2IkiB58) to learn how to:
+Then, skim through [these slides](https://docs.google.com/presentation/d/1fMU5yDPZMo2agbt5jDn-5QZJufMdm89ZtLteHvuCV5w/edit?usp=sharing) to learn how to:
 1. Connect Vex IQ Controller, motors, and sensors to to the Robot Brain and
 2. Update firmware on the Vex IQ brain, controller, motors and sensors!
 
-The slides for this tutorial can be found [here](https://docs.google.com/presentation/d/1fMU5yDPZMo2agbt5jDn-5QZJufMdm89ZtLteHvuCV5w/edit?usp=sharing). 
+Another, shorter tutorial for Vex IQ Robot Firmware can be found [here](http://bit.ly/2IkiB58). 
 
 ## Step 5: Hardware Debugging
 Skim through [these slides](https://docs.google.com/presentation/d/1_3fvsPvmFwbrttqhroDUujTB-AWqpwghGH2QyqkvosM/edit?usp=sharing) to learn how to fix problems with Vex IQ:
