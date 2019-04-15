@@ -15,6 +15,7 @@ I am a...
 Skip to [Lesson #1](#lesson-0---Course-Introduction)
 
 ## Teacher
+What should go here?
 
 # Lesson 0 - Course Introduction
 ## Robots are Everywhere
