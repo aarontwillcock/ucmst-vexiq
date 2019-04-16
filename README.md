@@ -67,29 +67,38 @@ Skim through [these slides](https://docs.google.com/presentation/d/1KXgcYpn6T73V
 2. Compile and run code on the Robot Brain, and
 3. Print text to the Robot Brain's screen
 
-## Step 10: Programming Motors!
+## Step 10: Programming Motors with setMotorSpeed()
 Skim through [these slides](https://docs.google.com/presentation/d/1bJ4BMg4rIqGirYLFP_xdCP-On9bsr3LAf-y0vthpBzA/edit?usp=sharing) to learn how to:
 1. Write an infinite loop,
 2. Drive a Smart Motor using RobotC, and
 3. Invert motor speeds to drive forward
 
-## Step 11: Programming with the Controller
-Follow [this link](http://bit.ly/2FXbr8M) to learn how to:
-1. Create a variable to hold button info, 
-2. Get the status of a Vex IQ controller button, and
-3. Use the Vex IQ controller button to print to the Robot Brain's screen!
+## Step 11: Controller Intro - Buttons
+Skim through [these slides](https://docs.google.com/presentation/d/1bILMK5E4esG3eQm9xa5Pm3G_34LVBIcw2jbCBgSPtqI/edit?usp=sharing) to learn how to:
+1. Program the robot in TeleOp mode,
+2. Create a variable to hold button value, 
+2. Use the VexRT[ ] function to get the status of a Vex IQ controller button, and
+3. Use the Vex IQ controller button to control a motor!
 
-## Step 12: Driving a Motor with Buttons!
-Follow [this link](http://bit.ly/2pdBzCy) to learn how to:
-1. Drive a motor using a Vex IQ controller button and
-2. Stop a motor using an if-else statement
-
-## Step 13: Driving a Motor with Joysticks!
-Follow [this link](http://bit.ly/2DujV1I) to learn how to:
-1. Create a variable to hold joystick info,
-2. Get the status of the Vex IQ controller joystick axis (a.k.a. channel),
+## Step 12: Controller Intro - Joysticks
+Skim through [these slides](https://docs.google.com/presentation/d/13TnDF_gOfPJt9buPPukOf8dlTfKeFLN3260nRTlCEi0/edit?usp=sharing) to learn how to:
+1. Create a variable to hold joystick values,
+2. Get the status of the Vex IQ controller joystick axis (a.k.a. channel) using the VexRT[ ] function,
 3. Drive a motor using a Vex IQ controller joystick, and
 4. Select a different controller joystick axis (channel) to control the motor
+
+## Step 13: Controller Intro - Using Multiple Buttons
+Skim through [these slides](https://google.com) to learn how to:
+1. Create multiple button variables,
+2. Get multiple button values,
+3. Use two buttons to control one motor, and
+4. Stop motors using if-elseif-else statements
+
+## Step 14: Controller Intro - Using Multiple Joysticks
+Skim through [these slides](https://google.com) to learn how to:
+1. Create multiple joystick variables,
+2. Get multiple joystick values, and
+3. Control multiple motors with one joystick
 
 # The Game
 
