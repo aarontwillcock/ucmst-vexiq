@@ -45,7 +45,7 @@ Skim through [these slides](https://docs.google.com/presentation/d/1HwCt-U9RJA15
 1. Pair the Vex IQ controller to the Robot Brain and
 2. Use Driver Control to drive your robot!
 
-# Programming
+# Basic Programming
 
 ## Step 7: A Brief Review of Control Structures
 Skim through [these slides](https://docs.google.com/presentation/d/1GsUwYTUbjZKrCTMckOrfSWoZ8jXgKU2aZRp34neX8BY/edit?usp=sharing) to review:
@@ -87,14 +87,21 @@ Skim through [these slides](https://docs.google.com/presentation/d/13TnDF_gOfPJt
 3. Drive a motor using a Vex IQ controller joystick, and
 4. Select a different controller joystick axis (channel) to control the motor
 
-## Step 13: Controller Intro - Using Multiple Buttons
+# Advanced Programming
+
+## Step 13: Code Structure
+Skim through [these slides](https://google.com) to learn how to:
+1. Structure your RobotC code and
+2. Organize Input, Logic, and Output
+
+## Step 14: Controller Intro - Using Multiple Buttons
 Skim through [these slides](https://google.com) to learn how to:
 1. Create multiple button variables,
 2. Get multiple button values,
 3. Use two buttons to control one motor, and
 4. Stop motors using if-elseif-else statements
 
-## Step 14: Controller Intro - Using Multiple Joysticks
+## Step 15: Controller Intro - Using Multiple Joysticks
 Skim through [these slides](https://google.com) to learn how to:
 1. Create multiple joystick variables,
 2. Get multiple joystick values, and
