@@ -56,7 +56,7 @@ Skim through [these slides](https://docs.google.com/presentation/d/1GsUwYTUbjZKr
 5. While loops
 
 ## Step 8: Using Infinite Loops
-Follow [this link](http://bit.ly/2FCj9Wj) to learn how to:
+Skim through [these slides](https://docs.google.com/presentation/d/1faUasjk0h9Ufly4DvYq_UChKjo0vIf3bTthYsIKGeRw/edit?usp=sharing) to learn how to:
 1. Create an infinite loop,
 2. Put the robot brain to sleep (zZzZzZ), and
 2. Stop the robot brain from exiting your code!
