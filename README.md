@@ -2,6 +2,14 @@
 
 This curricula was designed for the [Utica Center for Mathematics, Science, and Technology](http://ucmst.uticak12.org/) in the [Utica Community School District](http://www.uticak12.org/).
 
+## Preliminaries
+
+### Step 0: Installing VEXos on UCS Computers
+
+Skim through the slides [here](https://docs.google.com/presentation/d/1MJCYh1U712Hu-rsoLEMqErXeC1y1yK1890TZa3ckwn0/edit?usp=sharing) to learn how to:
+
+1. Install the VEXos utility on UCS computers
+
 ## Introduction
 
 ### Step 1: Course Introduction
