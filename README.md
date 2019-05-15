@@ -2,6 +2,10 @@
 
 This curricula was designed for the [Utica Center for Mathematics, Science, and Technology](http://ucmst.uticak12.org/) in the [Utica Community School District](http://www.uticak12.org/).
 
+## What are we doing today?
+
+[Click here](https://docs.google.com/presentation/d/1R-MaezVyboo_ZM61HV9TK_EhD8JLIBvr_hMPbEgCX3A/edit?usp=sharing) to read about what we are doing today!
+
 ## Preliminaries
 
 ### Step 0: Installing VEXos on UCS Computers
