@@ -2,6 +2,10 @@
 
 This curricula was designed for the [Utica Center for Mathematics, Science, and Technology](http://ucmst.uticak12.org/) in the [Utica Community School District](http://www.uticak12.org/).
 
+## What are we doing today?
+
+[Click here](https://docs.google.com/presentation/d/1R-MaezVyboo_ZM61HV9TK_EhD8JLIBvr_hMPbEgCX3A/edit?usp=sharing) to read about what we are doing today!
+
 ## Preliminaries
 
 ### Step 0: Installing VEXos on UCS Computers
@@ -207,3 +211,14 @@ Follow [this link](https://docs.google.com/presentation/d/18KbUWBCDrOjCIG0dlUG4L
 Follow [this link](https://docs.google.com/presentation/d/1hcbKCy2vUuc5-NTPOdc9XO4jLsSVHIhjGBHO_QyeCMM/edit?usp=sharing) to learn how to:
 
 1. Use ultrasonic proximity (distance) sensors in RobotC
+## Frequently Asked Questions
+
+### My personal computer doesn't have VEXos or ROBOTC. Where do I get it?
+
+You can download VEXos and ROBOTC from these links:
+1. [VEX OS Utility](https://www.vexrobotics.com/vexiq/resources/vexos) (https://www.vexrobotics.com/vexiq/resources/vexos)
+2. [ROBOTC for VEX IQ](https://www.vexrobotics.com/robotc-vexedr-vexiq.html) (https://www.vexrobotics.com/robotc-vexedr-vexiq.html)
+
+### My school computer doesn't have VEXos or ROBOTC. Where do I get it?
+
+On UCS computers, follow [these steps](https://docs.google.com/presentation/d/1MJCYh1U712Hu-rsoLEMqErXeC1y1yK1890TZa3ckwn0/edit?usp=sharing) to install the VEXos utility on UCS computers.
