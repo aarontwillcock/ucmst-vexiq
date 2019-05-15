@@ -189,3 +189,15 @@ Follow [this link](http://bit.ly/outputControl) to learn how to create:
 Follow [this link](https://docs.google.com/presentation/d/1cJ7TTh4gOdv9XMNLSBmN2gtnjkgkfihG1bbaSP6vLhM/edit?usp=sharing) to learn how to:
 
 1. Use touch sensors in RobotC
+
+## Frequently Asked Questions
+
+### My personal computer doesn't have VEXos or ROBOTC. Where do I get it?
+
+You can download VEXos and ROBOTC from these links:
+1. [VEX OS Utility](https://www.vexrobotics.com/vexiq/resources/vexos) (https://www.vexrobotics.com/vexiq/resources/vexos)
+2. [ROBOTC for VEX IQ](https://www.vexrobotics.com/robotc-vexedr-vexiq.html) (https://www.vexrobotics.com/robotc-vexedr-vexiq.html)
+
+### My school computer doesn't have VEXos or ROBOTC. Where do I get it?
+
+On UCS computers, follow [these steps](https://docs.google.com/presentation/d/1MJCYh1U712Hu-rsoLEMqErXeC1y1yK1890TZa3ckwn0/edit?usp=sharing) to install the VEXos utility on UCS computers.
