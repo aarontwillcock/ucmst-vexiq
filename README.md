@@ -155,7 +155,9 @@ Follow [this link](https://docs.google.com/presentation/d/1_ILnuM37BUFwEd99M40ZG
 
 ## Extras (if you're ahead)
 
-### Help Pages
+### Non-Programming Extras:
+
+#### Help Pages
 
 Follow [this link](https://docs.google.com/presentation/d/14uzyFbfeldbnsz64SOI3STK2U0fCUuWh0-KnHWyDV7c/edit?usp=sharing) to learn how to:
 
@@ -163,7 +165,7 @@ Follow [this link](https://docs.google.com/presentation/d/14uzyFbfeldbnsz64SOI3S
 2. Search for sensors and commands in RobotC, and
 3. Read Help Pages
 
-### Keyboard Shortcuts
+#### Keyboard Shortcuts
 
 Follow [this link](https://goo.gl/cMqh6y) to learn about shortcuts for:
 
@@ -172,7 +174,9 @@ Follow [this link](https://goo.gl/cMqh6y) to learn about shortcuts for:
 3. Opening Windows Explorer
 4. Locking the computer
 
-### Output Control
+### Programming Extras:
+
+#### Output Control
 
 Follow [this link](http://bit.ly/outputControl) to learn how to create:
 
@@ -180,8 +184,26 @@ Follow [this link](http://bit.ly/outputControl) to learn how to create:
 2. Speed governors
 3. Deadbands
 
-### Sensors
+#### Touch LED Sensor
 
 Follow [this link](https://docs.google.com/presentation/d/1cJ7TTh4gOdv9XMNLSBmN2gtnjkgkfihG1bbaSP6vLhM/edit?usp=sharing) to learn how to:
 
 1. Use touch sensors in RobotC
+
+#### Bumper (Limit Switch) Sensor
+
+Follow [this link](https://docs.google.com/presentation/d/1r1AhebNhu7HxsNxID_GlqjldTHmiisq8tR0c4I1uQbY/edit?usp=sharing) to learn how to:
+
+1. Use bumper (limit switch) sensors in RobotC
+
+#### Gyro (Angle) Sensor
+
+Follow [this link](https://docs.google.com/presentation/d/18KbUWBCDrOjCIG0dlUG4LUe6w1qYgRHsPbGuVBRkDyc/edit?usp=sharing) to learn how to:
+
+1. Use Gyro (Angle) sensors in RobotC
+
+#### Ultrasonic Proximity (Distance) Sensor
+
+Follow [this link](https://docs.google.com/presentation/d/1hcbKCy2vUuc5-NTPOdc9XO4jLsSVHIhjGBHO_QyeCMM/edit?usp=sharing) to learn how to:
+
+1. Use ultrasonic proximity (distance) sensors in RobotC
