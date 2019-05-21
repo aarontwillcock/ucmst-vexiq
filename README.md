@@ -131,19 +131,6 @@ Skim through [these slides](https://docs.google.com/presentation/d/13TnDF_gOfPJt
 3. Drive a motor using a Vex IQ controller joystick, and
 4. Select a different controller joystick axis (channel) to control the motor
 
-## Advanced Programming
-
-### Step 14: Combining Code
-
-Skim through [these slides](https://docs.google.com/presentation/d/1EoM3up2UB1nuxQ-ng5cXwV0Rr4aeNGUe3qLIqZ2pyKI/edit?usp=sharing) to learn how to:
-
-1. Identify different parts of RobotC code structure and
-2. Combine different example programs into one.
-
-### Step 15: Writing Code from Scratch
-
-Skim through [these slides](https://docs.google.com/presentation/d/11e2YSdoezaB7c_5oCVe_jM9ous62vQbordHGIL8ct3c/edit?usp=sharing) to learn how to write your own RobotC code from scratch!
-
 ## The Game
 
 ### Part 1: Watch the Game Video
@@ -157,17 +144,22 @@ Follow [this link](https://docs.google.com/presentation/d/1_ILnuM37BUFwEd99M40ZG
 1. Weight restrictions for your robot
 2. Size restrictions for your robot
 
+## Advanced Programming
+
+### Step 14: Combining Code
+
+Skim through [these slides](https://docs.google.com/presentation/d/1EoM3up2UB1nuxQ-ng5cXwV0Rr4aeNGUe3qLIqZ2pyKI/edit?usp=sharing) to learn how to:
+
+1. Identify different parts of RobotC code structure and
+2. Combine different example programs into one.
+
+### Step 15: Writing Code from Scratch
+
+Skim through [these slides](https://docs.google.com/presentation/d/11e2YSdoezaB7c_5oCVe_jM9ous62vQbordHGIL8ct3c/edit?usp=sharing) to learn how to write your own RobotC code from scratch!
+
 ## Extras (if you're ahead)
 
 ### Non-Programming Extras:
-
-#### Help Pages
-
-Follow [this link](https://docs.google.com/presentation/d/14uzyFbfeldbnsz64SOI3STK2U0fCUuWh0-KnHWyDV7c/edit?usp=sharing) to learn how to:
-
-1. Open the Help Pages program for Vex IQ RobotC,
-2. Search for sensors and commands in RobotC, and
-3. Read Help Pages
 
 #### Keyboard Shortcuts
 
@@ -177,6 +169,14 @@ Follow [this link](https://goo.gl/cMqh6y) to learn about shortcuts for:
 2. Minimizing all tabs
 3. Opening Windows Explorer
 4. Locking the computer
+
+#### Help Pages
+
+Follow [this link](https://docs.google.com/presentation/d/14uzyFbfeldbnsz64SOI3STK2U0fCUuWh0-KnHWyDV7c/edit?usp=sharing) to learn how to:
+
+1. Open the Help Pages program for Vex IQ RobotC,
+2. Search for sensors and commands in RobotC, and
+3. Read Help Pages
 
 ### Programming Extras:
 
