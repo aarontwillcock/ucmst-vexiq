@@ -135,7 +135,7 @@ Skim through [these slides](https://docs.google.com/presentation/d/13TnDF_gOfPJt
 
 ### Part 1: Watch the Game Video
 
-Follow *this link* to watch the VeX IQ game video we'll be playing this year! **Game will not be shown until all teams have completed Step 13**
+Follow [this link](https://drive.google.com/open?id=1qKBG_0WFX9E9Z7wqHzJYl9YyMQZDvAEo) to watch the VeX IQ game video we'll be playing this year!
 
 ### Part 2: Game Rules
 
