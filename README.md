@@ -33,6 +33,10 @@ Skim through the slides [here](https://docs.google.com/presentation/d/1P0KxmpQTp
 4. Rules for building/cleanup, and
 5. What page in the build manual to stop at
 
+#### Step 2 Fix: Fixing Claws that Break
+
+Skim through the slides [here](https://docs.google.com/presentation/d/1ovxRPLr3sPVojUabPp7ZAlkTOrY2YRO9584f0Z2UUsc/edit?usp=sharing) to learn about a fix for claws that fall apart.
+
 ### Step 3: Introduction to Laptops
 
 Skim through the slides [here](https://docs.google.com/presentation/d/1hrbj6rYlkb1Yr_0rlDXs3Ghp6Sm5IhHdMv23oUuKCEA/edit?usp=sharing) to learn about:
